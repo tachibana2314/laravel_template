@@ -1,0 +1,16 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/public/css/library/*
+/public/css/object/library/select2/theme/default/layout.css.map
+/public/css/style.css.map
+/public/css/object/library/select2/theme/classic/layout.css.map
