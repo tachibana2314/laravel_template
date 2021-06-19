@@ -1,0 +1,8 @@
+/.idea
+/docker/db/mysql/volumes
+/docker/web/nginx/volumes
+.env
+.sass-cache
+/docker/web/*
+/src/public/.sass-cache
+docker-compose.yml
